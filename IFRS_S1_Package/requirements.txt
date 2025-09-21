@@ -1,0 +1,17 @@
+# Core numerical & ML
+numpy<2.0.0
+scikit-learn>=1.2
+
+# FAISS (CPU)
+faiss-cpu>=1.7.4
+
+# Embeddings
+sentence-transformers>=2.2.2
+torch>=2.2.0
+
+# APIs
+fastapi>=0.110
+uvicorn[standard]>=0.23
+
+# Optional utilities
+requests>=2.31

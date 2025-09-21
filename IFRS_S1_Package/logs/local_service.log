@@ -1,0 +1,16 @@
+INFO:local_semantic_service:使用設備: cpu
+INFO:local_semantic_service:GPU優化: False
+INFO:local_semantic_service:混合精度: False
+INFO:local_semantic_service:本地模型服務已配置為代理模式
+INFO:local_semantic_service:將請求轉發至加速服務端點 localhost:8004
+INFO:local_semantic_service:✅ 所有模型載入完成，主要模型: proxy_mode
+INFO:     Started server process [41492]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:53259 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53259 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [41492]
